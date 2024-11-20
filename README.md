@@ -1,10 +1,13 @@
 ![alt text](image.png)
 
+
+
+ ```
 -   MySQL2 
 
-	    ```
+	
         npm install --save mysql2
-        ```
+        
 	    ```
         npm install --save-dev @types/node
         ```
@@ -16,3 +19,4 @@
         ```
         ```
         yarn "# teste" 
+ ```
